@@ -1,3 +1,5 @@
-Name: Lo Chun Ting Edwin
-ID: 20779009
-![title](Git History.PNG)
+<ul>
+<li>Name: Lo Chun Ting Edwin</li>
+<li>ID: 20779009</li>
+<li><img src="Git History.PNG" alt="Git History"/></li>
+</ul>
